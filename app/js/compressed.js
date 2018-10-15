@@ -1,0 +1,14 @@
+//=require vendor/jquery/jquery.min.js
+//=require vendor/bootstrap/js/bootstrap.min.js
+//=require vendor/jquery.nicescroll/jquery.nicescroll.min.js
+//=require vendor/jquery.easeScroll/jquery.easeScroll.js
+//=require vendor/isotope/imagesloaded.pkgd.min.js
+//=require vendor/isotope/isotope.pkgd.min.js
+//=require vendor/owl.carousel/owl.carousel.min.js
+//=require vendor/matchHeight/jquery.matchHeight.min.js
+//=require vendor/noUiSlider/nouislider.min.js
+//=require vendor/chosen/chosen.jquery.min.js
+//=require vendor/jquery-accordion/jquery.accordion.js
+//=require vendor/remodal/remodal.min.js
+//=require vendor/animsition/animsition.min.js
+//=require js/main.js
